@@ -1,3 +1,4 @@
 # Ai-delivery
-# These are some exercises, done for the Ai course june 2021 in strive school, 
-produced in limted time, often not enough to answer all questions ...  
+
+# These are some exercises, done for the Ai course june 2021 in strive school.
+# Teachers and students welcome. Serve yourself.  
